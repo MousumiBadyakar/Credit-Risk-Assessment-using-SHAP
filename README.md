@@ -4,9 +4,10 @@ An explainable machine-learning project that estimates the probability of loan d
 
 > **Disclaimer:** This is an educational/demo project. Its predictions are model estimates, not financial advice or a lending decision. It has not been established as suitable for real-world credit underwriting.
 
+
 ## Live Demo
 
-- **Application:** `https://credit-risk-assessment-using-shap-mxmh.onrender.com/`
+- **[Application](https://credit-risk-assessment-using-shap-mxmh.onrender.com/)**
 
 ## Project Highlights
 
